@@ -1,7 +1,6 @@
 package com.company;
 
 public class Main {
-
     public static void main(String[] args) {
 	/*
 	@TODO 1. Create Temperature Convertor
@@ -9,6 +8,6 @@ public class Main {
 	      3. Connect weather to locations
 	      4. Display weather info
 	 */
-
+        
     }
 }
