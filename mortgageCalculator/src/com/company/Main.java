@@ -11,7 +11,7 @@ public class Main {
 
         /*@TODO
             ELEVATING THE PROGRAM
-            1.Simple mortgage calculations with input
+            1.Simple mortgage calculations with input *(COMPLETED)
             2.GUI using JAVAFX
             3.API connection to search for houses
          */
